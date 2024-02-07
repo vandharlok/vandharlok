@@ -5,5 +5,17 @@
 <p align= center> <strong>A passionate Machine Learning enthusiast from Brazil </strong></p> 
 
 - 🔭 I’m currently graduating in <strong> computer engineering </strong>
+
 - 🌱 I’m currently learning <strong>Machine Learning</strong>
+
 - 📫 How to reach me: vandersonaugusto6@gmail.com
+
+<h3><strong>Connect with me:</strong> </h3>
+
+- <a href="www.linkedin.com/in/vanderson-augusto-999280283">Linkedln
+</a>
+
+- <a href="https://platform.stratascratch.com/user/vandharlok">Stratascratch
+</a>
+
+
