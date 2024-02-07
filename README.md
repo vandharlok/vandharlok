@@ -18,4 +18,6 @@
 - <a href="https://platform.stratascratch.com/user/vandharlok">Stratascratch
 </a>
 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vandharlok&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<br>
+![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=vandharlok&show_icons=true&locale=en&layout=compact)
