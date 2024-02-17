@@ -17,5 +17,3 @@
 - <a href="https://platform.stratascratch.com/user/vandharlok">Stratascratch
 </a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vandharlok&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-<br>
