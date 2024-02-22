@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently graduating in <strong> computer engineering </strong>
 
-- 🌱 I’m currently learning <strong>Machine Learning</strong>
+- 🌱 I’m currently learning <strong>Data Science and Machine Learning</strong>
 
 - 📫 How to reach me: vandersonaugusto6@gmail.com
 
