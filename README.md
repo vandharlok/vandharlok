@@ -17,3 +17,7 @@
 - <a href="https://platform.stratascratch.com/user/vandharlok">Stratascratch
 </a>
 
+
+- <a href="https://www.kaggle.com/vandersonaugusto">Kaggle
+</a>
+
