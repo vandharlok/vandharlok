@@ -11,7 +11,7 @@
 
 <h3><strong>Connect with me:</strong> </h3>
 
-- <a href="www.linkedin.com/in/vanderson-augusto-999280283">Linkedln
+- <a href="linkedin.com/in/vanderson-augusto">Linkedln
 </a>
 
 - <a href="https://platform.stratascratch.com/user/vandharlok">Stratascratch
