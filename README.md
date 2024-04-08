@@ -3,11 +3,11 @@
 <h2 align=center> Hi, I'm Vanderson Augusto </h2>
 
 
-- 🔭 I’m currently graduating in <strong> computer engineering </strong>
+- I’m currently graduating in <strong> computer engineering </strong>
 
-- 🌱 I’m currently learning <strong>Data Science and Machine Learning</strong>
+- I’m currently learning <strong>Data Science and Machine Learning</strong>
 
-- 📫 How to reach me: vandersonaugusto6@gmail.com
+-  How to reach me: vandersonaugusto6@gmail.com
 
 <h3><strong>Connect with me:</strong> </h3>
 
