@@ -3,7 +3,7 @@
 <h2 align=center> I'm Vanderson Augusto </h2>
 
 
-- I’m currently graduating in <strong> computer engineering </strong>
+- I’m currently graduating in <strong> computer engineering at the Federal University of Technology (UTFPR) </strong>
 
 - I’m currently learning <strong>Data Science and Machine Learning</strong>
 
