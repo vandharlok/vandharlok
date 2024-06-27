@@ -20,3 +20,7 @@
 - <a href="https://www.kaggle.com/vandersonaugusto">Kaggle
 </a>
 
+- <a href="https://medium.com/@vandersonaugusto6">Medium
+</a>
+
+
