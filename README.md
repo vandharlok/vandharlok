@@ -13,10 +13,6 @@
 - <a href="https://www.linkedin.com/in/vanderson-augusto">Linkedln
 </a>
 
-- <a href="https://platform.stratascratch.com/user/vandharlok">Stratascratch
-</a>
-
-
 - <a href="https://medium.com/@vandersonaugusto6">Medium
 </a>
 
