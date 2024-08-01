@@ -4,7 +4,7 @@
 
 - I’m currently graduating in <strong> computer engineering at the Federal University of Technology (UTFPR) </strong>
 
-- I’m currently learning <strong>Data Science and Machine Learning</strong>
+- I’m currently learning <strong>Data Science and Data Analysis</strong>
 
 -  How to reach me: vandersonaugusto6@gmail.com
 
