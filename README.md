@@ -2,9 +2,7 @@
 <h2 align=center> I'm Vanderson Augusto </h2>
 
 
-- I’m currently graduating in <strong> computer engineering at the Federal University of Technology (UTFPR) </strong>
-
-- I’m currently learning <strong>Data Science and Data Analysis</strong>
+- Studing <strong> computer engineering at Federal University of Technology (UTFPR) </strong>
 
 -  How to reach me: vandersonaugusto6@gmail.com
 
