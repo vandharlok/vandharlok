@@ -2,7 +2,7 @@
 <h2 align=center> I'm Vanderson Augusto </h2>
 
 
-- Studing <strong> computer engineering at Federal University of Technology (UTFPR) </strong>
+- Studing <strong> computer engineering at the Federal University of Technology (UTFPR) </strong>
 
 -  How to reach me: vandersonaugusto6@gmail.com
 
