@@ -3,7 +3,7 @@
 
 
 - Studing <strong> computer engineering at the Federal University of Technology (UTFPR) </strong>
-- <strong> Chatbot Developer / Data Analyst </strong>
+- <strong> Chatbot Developer / Python Data Analyst  / ReactJs / NodeJS </strong>
 
 -  How to reach me: vandersonaugusto6@gmail.com
 
@@ -12,7 +12,6 @@
 - <a href="https://www.linkedin.com/in/vanderson-augusto">Linkedln
 </a>
 
-- <a href="https://medium.com/@vandersonaugusto6">Medium
-</a>
+
 
 
