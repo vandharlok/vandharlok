@@ -3,7 +3,7 @@
 
 
 - Studing <strong> computer engineering at the Federal University of Technology (UTFPR) </strong>
-- <strong> Chatbot Developer / Python Data Analyst / Data Scientist</strong>
+- <strong> IA Developer / Python Data Analyst / Data Scientist</strong>
 
 -  How to reach me: vandersonaugusto6@gmail.com
 
